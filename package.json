@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@vultr/vultr-node": "^2.5.0"
+  },
+  "name": "vultr-certbot-hook",
+  "description": "vultr certbot hook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
